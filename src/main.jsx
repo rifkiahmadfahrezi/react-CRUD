@@ -7,7 +7,7 @@ import { createBrowserRouter, RouterProvider, Outlet} from "react-router-dom";
 import Navbar from './component/templates/navbar';
 import ProductsContainer from './component/templates/productsContainer';
 import AddProduct from './component/pages/AddProduct';
-import UpdateProduct from './component/pages/updateProduct';
+import UpdateProduct from './component/pages/UpdateProduct';
 import {loader as ProductLoader} from '@/component/templates/updateFormTemplate'
 
 import "./index.css";
